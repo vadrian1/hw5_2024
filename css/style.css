@@ -15,6 +15,7 @@
     animation-timing-function: linear;
     animation-delay: 0s;
     animation-fill-mode: forwards;
+    margin:auto;
 }
 
 body{
